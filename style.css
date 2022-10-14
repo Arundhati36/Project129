@@ -1,0 +1,22 @@
+body{
+    background-size :cover;
+    font-family :'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.heading{
+    font-size: 20px;
+    margin-top : 5px;
+    width : 100%;
+}
+.note{
+    color: black;
+    font-size : 18px;
+}
+#song{
+    font-size:20px;
+}
+canvas{
+    border:solid white 15px;
+    border-radius:30px;
+    box-shadow:lightskyblue;
+}
